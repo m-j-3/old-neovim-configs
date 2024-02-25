@@ -1,0 +1,15 @@
+neotree especially with the binding cwd 
+
+lazy vim is pretty which i think is the tokyo theme
+
+whichkey
+
+lazyloading
+
+honestly like the whole way lazy vim set up the plugin stuff as modular is amazing so stick to that idea for sure
+
+lsp-zero
+
+mason
+
+honestly i cant recall any that stand out much more to me which is probably an indicator that i should nuke and startover since ive gone too far into configuration obession hell.
