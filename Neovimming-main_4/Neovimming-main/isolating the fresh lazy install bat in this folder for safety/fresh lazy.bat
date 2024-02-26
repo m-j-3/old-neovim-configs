@@ -1,0 +1,1 @@
+git clone https://github.com/LazyVim/starter C:\MyStuff\Programming\Neovim\config\nvim
